@@ -1,0 +1,22 @@
+body {
+position: relative;
+}
+
+.addTenantForm {
+	text-align: center;
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+.error{
+	text-align: center;
+	padding: 4px 10px;
+}
+.formInput{
+	margin: 5px 5px;
+}
+
+.formMessage{
+	text-align: left;
+	margin: 5px 5px;
+}
